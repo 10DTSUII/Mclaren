@@ -11,6 +11,14 @@
   
   The theme of the page is meant to be minimalistic with a black background.The purpose of the website is to be clear and visually pleasing.futhermore, the minimalistic webpage is an ideal theme as it allows the page to be clutter free.Allowing certain aspects of design to be simple, and easy to implement as well as visually pleasing.For example, having a minimalistic webpage as opposed to a cluttered one allows you to implement aspects with ease such as responsiveness,media,pics etc..),color theme,fonts and the layout of css.
   
+  ### Justification as to why I chose a minimalistic webpage
+  -Drastic reduction of clutter allowing viewers to focus on the important information.
+  -Enables intuitive and seamless navigation
+  -Having less complexity means fewer problems
+  -Visually striking, drawing viewer - Leaving the blank around my various elements as intendet to guide the users visual flow and place emphasis on that item
+  -The minimalist website design aims to avoid unnecessary elements and remove them if they are already there
+  
+  
   
   
   
