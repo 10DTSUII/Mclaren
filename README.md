@@ -8,6 +8,12 @@
   ### About my project
   [**google.com**]{http://www.google.com}
   
+  
+  The theme of the page is meant to be minimalistic with a black background.The purpose of the website is to be clear and visually pleasing.futhermore, the minimalistic webpage is an ideal theme as it allows the page to be clutter free.Allowing certain aspects of design to be simple, and easy to implement as well as visually pleasing.For example, having a minimalistic webpage as opposed to a cluttered one allows you to implement aspects with ease such as responsiveness,media,pics etc..),color theme,fonts and the layout of css.
+  
+  
+  
+  
   My project is about Mclaren.The Mclaren project i created covers 4 aspects such as Homepage,About page, Gallery and Dealership.
   The homepage of my project is a simple, uniqe design.The page displays a video introducing Mclaren and has navs which links
   between the pages, allowing you to go to  whatever page you want simply through a click.
