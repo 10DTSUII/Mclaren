@@ -17,7 +17,7 @@
   -Having less complexity means fewer problems
   -Visually striking, drawing viewer - Leaving the blank around my various elements as intendet to guide the users visual flow and place emphasis on that item
   -The minimalist website design aims to avoid unnecessary elements and remove them if they are already there
-  
+  -The car speaks for itself the asthetic design 
   
   
   
@@ -44,7 +44,7 @@
   css grid with a natrual colour theme of :
    -Aqua
    -Red
-   -Black
+   -Black- Brings out the image of the car.
    -White
    -Font Styles/Families
   
