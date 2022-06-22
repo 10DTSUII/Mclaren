@@ -25,7 +25,7 @@
   My project is about Mclaren.The Mclaren project i created covers 4 aspects such as Homepage,About page, Gallery and Dealership.
   The homepage of my project is a simple, uniqe design.The page displays a video introducing Mclaren and has navs which links
   between the pages, allowing you to go to  whatever page you want simply through a click.
-  
+  ###Original idea -Anime to Mclaren
   ### Homepage
   My homepage is a simple introduction to the product with a video and a custom animated title.
  
@@ -53,3 +53,7 @@
     /videos
  
   ### -Responsiveness
+  
+  
+  
+  
