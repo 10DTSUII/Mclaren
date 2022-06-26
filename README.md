@@ -42,7 +42,6 @@
   -VIDEO
     - The video background of my homepage was take from youtube and converted from youtube and converted to a mp4 file.After converting to mp4 i procceded to download         the file to my folders prior to implementing the video in my website.
   css grid with a natrual colour theme of :
-   -Aqua
    -Red
    -Black- Brings out the image of the car.
    -White
@@ -53,7 +52,6 @@
     /videos
  
   ### -Responsiveness
-  
-  
+  In the testing of the preformance and responsiveness of the [https://docs.google.com/document/d/17su05x38GAKkO-g_uCBXFdxSwoGr07qeEsuD2Yw5ZLk/edit#heading=h.wdfy24hn09ed](url)
   
   
