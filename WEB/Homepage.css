@@ -1,0 +1,120 @@
+*{/*global element*/
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;}
+ .Layout{
+    position: fixed;
+   width: 100%;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.menu{
+    top: 10;
+    left: 20;
+    text-align: center;
+}
+nav{
+    width: 100%;
+    position:absolute;
+    top: 0;
+    left: 50;
+    padding: 10px 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	color: rgb(255, 255, 255);
+}
+
+nav ul{
+    flex: 1;
+    text-align: center;
+    padding-right: 30px;
+}
+nav ul li{
+    display: inline-block ; 
+    list-style: none;
+    margin: 10px 30px;
+
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+
+}
+nav ul li a::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(250, 15, 15);
+    transition: width 0.7s;
+}
+
+nav ul li a:hover::after{
+    width: 50px;
+}
+.Welcome_text{
+    text-align: center;
+
+}
+.Welcome_text h1{
+ font-size: 160px;
+ -webkit-text-stroke: 2px rgb(230, 3, 3);
+   color: transparent;
+ font-weight: 600;
+ animation: content 9s ease-in;
+}
+@keyframes content {
+   0%   { 
+   transform: translateY(235%); 		
+   }
+   100% { 
+   translate: translateY(50%); /*changed the transform to translate to prevent animation flickering */
+   }  
+  }
+.Welcome_text h1:hover{
+   -webkit-text-stroke: 2px rgb(0, 0, 0);
+   color: transparent;
+   text-transform: var(word);
+}
+
+.back-video{
+position: fixed;
+z-index: -1;
+}
+@media (max-aspect-ratio: 16/9){
+   .back-video{
+     width: auto;
+    height: 100%;
+   }
+}
+.menu .dropdown {
+    position: relative;
+    color: rgb(13, 239, 255);
+    display: inline-block;
+    
+   
+  }
+  
+  .menu .dropdown-content {
+    display: none;
+    position: absolute;
+    text-align: left;
+    z-index: 1;
+
+  }
+  
+  .dropdown:hover .dropdown-content {
+
+    text-align: left;
+    display: block;
+  }
