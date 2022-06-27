@@ -79,11 +79,17 @@ The gallery page
 
 
   ### Gallery /DT Assessment/WEB/Gallery.html
-   The gallery page                                          
+   The gallery page is minimilastic like every other page with only the navigations and images on the page.The gallery is set in a 3x4
+   format with 3 rows of images and 4 columns.Once you click on an image, through the animations and effects developed through the lightbox it eaises in  from
+  above the view of the webapge and floates down from the top.Futhermore, once you hover over an image it lights up , brighter than the rest of the images.Once 
+    you click on an image, it enlarges and fills most of the page allowing you to get a closer view at the image.
+                                                       -through the light box the image transitons and easis in from above at 1.2 seconds and alligns in the center
  
  
  ### About   /DT Assessment/WEB/About.html
- 
+ The about page along with the rest of the website is minamilistic, with just a paragraph of text on the right side of the website and an innovation picture on
+ the left side.The color of the text is white, the color is white because it contrasts the otherwise black backgound and draws the attention of the viewer
+  towards it.There is a about mclaren title above the text and picture, the h1 title is in the .container .content -section div.The text is found in the .container . content div, the purpose of the text was to briefly discuss Mclarens racing history.The webage also displays gliphys with a direct link to Mclarens social media pages.For instance, Mclarens twitter, instagram and facebook pages.The gliphcons are under the social div and are displayed directly below the text.They are presented in the color red, and once you hover them are gray. This was an intentional aspect of design as it works well with the color themes of the website.
  
  ### Contact /DT Assessment/WEB/Contact.html
   The contact page has a contact form and a map to the mclaren retailer in Auckland.The form and map are both within the contact box div.
