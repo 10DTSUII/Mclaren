@@ -6,20 +6,26 @@
      -Ahmed Abdi
   
   ### About my project
-  [**google.com**]{http://www.google.com}
-  
-  
+My project is a website that introduces Mclaren,my Mclaren website has is a minamilistic website that briefly discusses what i am presenting.In this write up
+i will justify why i chose a minimilastic webpage.
+ ### Justification as to why I chose a minimalistic webpage
+
+ 
+
+8 pages.They are divided into 2 different types.Tereo and english.The Te Reo Version has everything in Tereo, whilst the english version translates everything to english.The 4 different pages are:
+###
+###
+###
+###
+
+
+
+
   The theme of the page is meant to be minimalistic with a black background.The purpose of the website is to be clear and visually pleasing.futhermore, the minimalistic webpage is an ideal theme as it allows the page to be clutter free.Allowing certain aspects of design to be simple, and easy to implement as well as visually pleasing.For example, having a minimalistic webpage as opposed to a cluttered one allows you to implement aspects with ease such as responsiveness,media,pics etc..),color theme,fonts and the layout of css.
   
-  ### Justification as to why I chose a minimalistic webpage
-  -Drastic reduction of clutter allowing viewers to focus on the important information.
-  -Enables intuitive and seamless navigation
-  -Having less complexity means fewer problems
-  -Visually striking, drawing viewer - Leaving the blank around my various elements as intendet to guide the users visual flow and place emphasis on that item
-  -The minimalist website design aims to avoid unnecessary elements and remove them if they are already there
-  -The car speaks for itself the asthetic design 
-  
-  
+ 
+  ### Original idea
+  An original idea i had for the website was the gallery page.My previous intention was to make a gallery with a reflective
   
   
   My project is about Mclaren.The Mclaren project i created covers 4 aspects such as Homepage,About page, Gallery and Dealership.
@@ -32,10 +38,9 @@
    ### About Page
   The about page of my website gives insight to the company and their racing 
   history and formidable 
-  
+  The purpose of the about page was to give insight to the reader regarding the formidable racing history of Mclaren While explaining what Mclaren intends todo 
   ### Gallery
-  The gallery page of my website is a reflective ,self rotating gallery.
-  The dealership page displays the closest dealership and a contact form.
+The gallery page 
   
   ### My Design Process
   ## Layout
@@ -51,7 +56,58 @@
     /images 
     /videos
  
-  ### -Responsiveness
-  In the testing of the preformance and responsiveness of the [https://docs.google.com/document/d/17su05x38GAKkO-g_uCBXFdxSwoGr07qeEsuD2Yw5ZLk/edit#heading=h.wdfy24hn09ed](url)
+
+
+
+
+### -Responsiveness
   
+  
+ ### All Pages
+ The Fav icon is the Mclaren logo- (On all pages <link rel="icon" type="image/x-icon" href ="/images/logo.ico")
+ All pages have a black backround. (.container = bacground color:black;)
+ All pages have a link to the tereo maori and english version of each.
+ All pages have a nav that once hovered over will have a red line go from the left to the
+ when its being hovered over.
+ Every nav excluding the homepage nav is in the center.This is because of the video.
+                   
+                                                       
+                                                       
+   ### Homepage /DT Assessment/WEB/Homepage.html
+  The homepage is the most minamilistic webpage with a video in the middle.The nav for the homepage is located further to the right than other pages because if   it was located in the center it would be to close to the video and the mclaren title ascending form the below.The homepage video was converted from youtube    to a online mp4 converter.It was then downloaded as an mp4 and used in this video to introduce the Mclaren Supercar.This video is an integral part of the        website as the asthetic design, the placement and quality allow it to set the black minamilistic theme for the rest of the website and draw the viewer in.THe video is set to auto play in a muted loop.The mclaren title h1 welcome text.The text ascends from below the the view of the website through the translation of the y axis.The website is a transparent red while floating up, but is black once you hover over it.
+  
+
+
+  ### Gallery /DT Assessment/WEB/Gallery.html
+   The gallery page                                          
+ 
+ 
+ ### About   /DT Assessment/WEB/About.html
+ 
+ 
+ ### Contact /DT Assessment/WEB/Contact.html
+  The contact page has a contact form and a map to the mclaren retailer in Auckland.The form and map are both within the contact box div.
+   The backgorund of the form was picked to be white because it drew the attention of the viewer from the rest of the black background.
+   When you hover over the different inputs (Name, Email, Subject and Message)the color red will appear.When you click send after submitting your form 
+   It will display a message alerting you to your submission and will refresh the page.
+  The contact box div is displayed as a grid, with 2 columns.Namely,the map taking 2/3 of the 950 px contact box and the form taking 1/3 of the 950 px div.
+  The map is rather large being 633.33 px, with the map you are able to zoom into the map and view the surrounding areas and the rest of the globe if you wish     to seek other Mclaren retailers.If you wish to translate the page to maori, hover over the blue colored language navigation and the option to change language will appear.
+  
+  
+ ### Justification
+ Firstly, my justification as to why I chose to produce a minimalistic website is that a minimalistic website drastically reduces clutter which allows viewers to focus on important information. In a website with a vast amount of text viewers find it difficult to grasp the content and may miss important information due to the substantial amount of text in front of them.However, a minimalistic website deters confusion and allows the viewer to get the information they desire.
+ 
+Secondly,another reason as to why i chose a minimalistic website is that less complexity means fewer problems.Rather than spending hours trying to figure out how one to fix one little mishap, a minimalistic website is easier to understand making it easier to fix.Which is in direct contrast to a website with an abundance of code where trying to fix one error requires a lot of effort and time.
+ 
+Thirdly, another reason as to why i chose to produce a minimalistic website is how visually striking it is.If you have a website with conflicting colors and text here and there, it is easy to overlook the little details.However, the minimalist website draws the viewer in through its minimalist design.For instance having one color around various elements acts as a guide for the viewers visual flow and places emphasis on certain elements.
+
+ Lastly, the product.By having a minimalistic website the product is drawn out.For instance, the aesthetic design of the Mclaren sends the message to the reader that this car is a luxury high supercar.This makes it so i don't have to write that much text because the Mclaren car speaks for itself.
+
+### Issues I faced with the coding aspect of the website
+  
+  
+  
+  
+  
+
   
